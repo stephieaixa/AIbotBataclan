@@ -1,0 +1,15 @@
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Test Zendesk Widget</title>
+</head>
+<body>
+  <h1>Página de prueba</h1>
+  <p>El widget de Zendesk debería aparecer en la esquina inferior derecha.</p>
+
+  <!-- Start of bataclan Zendesk Widget script -->
+  <script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=ddd540ca-5c3b-4a3c-9a97-11ed74063660"></script>
+  <!-- End of bataclan Zendesk Widget script -->
+</body>
+</html>
